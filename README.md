@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gabriel Benítez</h1>
 <h3 align="center">Technical Lead · Senior Backend Engineer</h3>
 <p align="center">
-  PHP / Symfony / Laravel · Vue 3 / TypeScript · Microservicios · Mentoría de Equipos
+  Ex Technical Lead en CrediSmart · PHP / Symfony / Laravel · Vue 3 / TypeScript · Microservicios · Mentoría de Equipos
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ### 🚀 Sobre mí
 
-Llevo **18 años construyendo software en producción**, evolucionando de Senior PHP Developer a líder técnico de múltiples equipos. Hoy en **CrediMinuto** (fintech colombiana) audito código, defino la arquitectura del sistema central y mentorizo a 6+ ingenieros distribuidos en varios squads.
+Llevo **18 años construyendo software en producción**, evolucionando de Senior PHP Developer a líder técnico de múltiples equipos. Recientemente fui Technical Lead en **CrediSmart** (fintech colombiana), donde audité código, definí la arquitectura del sistema central y di mentoría a 6+ ingenieros distribuidos en varios squads.
 
 - 🏗️ Diseño con **arquitectura hexagonal y DDD**
 - 🧪 Escribo tests primero (PHPUnit, Pest, Vitest)
 - 🔐 Lideré la implementación de los hallazgos de auditoría de seguridad de **CNID** sobre los servicios productivos
-- 📄 Construí la integración de CrediMinuto con la **DIAN** (proveedor electrónico autorizado)
+- 📄 Construí la integración de CrediSmart con la **DIAN** (proveedor electrónico autorizado)
 - 🤖 Aplico **OpenCode + Cursor** en mi flujo diario para acelerar la entrega sin sacrificar calidad
 - 🌎 Disponible 100% remoto · Inglés B2 profesional
 
@@ -82,13 +82,13 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 
 ---
 
-### 💼 Lo que hago en CrediMinuto
+### 💼 Lo que hice en CrediSmart
 
 | Proyecto | Stack | Impacto |
 |----------|-------|---------|
-| **Plataforma Fintech (core)** | Laravel · Vue 3 · TypeScript · PostgreSQL · Docker · AWS | Producto principal. Lidero arquitectura, code review y CI/CD. |
+| **Plataforma Fintech (core)** | Laravel · Vue 3 · TypeScript · PostgreSQL · Docker · AWS | Producto principal. Lideré arquitectura, code review y CI/CD. |
 | **Form Builder de Préstamos** | Vue 3 · Inertia.js · Laravel | Motor de formularios dinámicos: el equipo de negocio crea productos crediticios sin desarrollo. (2022–2023) |
-| **Facturación Electrónica DIAN** | Laravel · APIs gubernamentales | Certifiqué a CrediMinuto como proveedor electrónico autorizado. |
+| **Facturación Electrónica DIAN** | Laravel · APIs gubernamentales | Certifiqué a CrediSmart como proveedor electrónico autorizado. |
 | **MDM (Mobile Device Management)** | Android · Samsung · Motorola | Sistema de administración para flotas de cobranza en campo. |
 | **Migración Webpack → Vite** | Frontend tooling | El build de prod pasó de minutos a segundos. |
 | **Hardening de Seguridad** | Linux · Bash · CNID Audit | Implementación de hallazgos de auditoría externa sobre servicios productivos. |
