@@ -126,7 +126,7 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 ¿Buscás un Tech Lead que combine 18 años de PHP/Symfony/Laravel con visión de arquitectura, mentoría real de equipos y flujo de trabajo asistido por IA? Hablemos.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-benitez-9b31924a/)
-- 📧 [escorwer@gmail.com](mailto:escorwer@gmail.com)
+- 📧 [gabriielbenitezanz@gmail.com](mailto:gabriielbenitezanz@gmail.com)
 - 🌎 100% remoto · Latam / Internacional
 
 ---
