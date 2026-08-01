@@ -114,8 +114,6 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 
 ### 📊 Stats
 
-### 📊 Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=gbenitez&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gbenitez&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
