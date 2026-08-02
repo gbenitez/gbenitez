@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-benitez-9b31924a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:escorwer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gabriielbenitezanz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Maracay-Venezuela-1E40AF?style=flat" alt="Location" />
   <img src="https://img.shields.io/badge/100%25-Remoto-10B981?style=flat" alt="Remote" />
 </p>
@@ -115,8 +115,8 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=gbenitez&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gbenitez&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gbenitez&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gbenitez&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -126,6 +126,7 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 ¿Buscás un Tech Lead que combine 18 años de PHP/Symfony/Laravel con visión de arquitectura, mentoría real de equipos y flujo de trabajo asistido por IA? Hablemos.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-benitez-9b31924a/)
+- 🌐 [gb-vnzl.com](https://gb-vnzl.com/)
 - 📧 [gabriielbenitezanz@gmail.com](mailto:gabriielbenitezanz@gmail.com)
 - 🌎 100% remoto · Latam / Internacional
 
