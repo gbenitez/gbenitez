@@ -22,7 +22,7 @@ Llevo **18 años construyendo software en producción**, evolucionando de Senior
 - 🔐 Lideré la implementación de los hallazgos de auditoría de seguridad de **CNID** sobre los servicios productivos
 - 📄 Construí la integración de CrediSmart con la **DIAN** (proveedor electrónico autorizado)
 - 🤖 Aplico **OpenCode + Cursor** en mi flujo diario para acelerar la entrega sin sacrificar calidad
-- 🌎 Disponible 100% remoto · Inglés B2 profesional
+- 🌎 Disponible 100% remoto 
 
 ---
 
