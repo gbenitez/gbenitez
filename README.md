@@ -12,7 +12,7 @@ Ex Technical Lead en CrediSmart · PHP / Symfony / Laravel · Vue 3 / TypeScript
 
 ### 🚀 Sobre mí
 
-Llevo **18 años construyendo software en producción**, evolucionando de Senior PHP Developer a líder técnico de múltiples equipos. Recientemente fui Technical Lead en **CrediSmart** (fintech colombiana), donde audité código, definí la arquitectura del sistema central y di mentoría a 6+ ingenieros distribuidos en varios squads.
+Llevo **Más de 15 años construyendo software en producción**, evolucionando de Senior PHP Developer a líder técnico de múltiples equipos. Recientemente fui Technical Lead en **CrediSmart** (fintech colombiana), donde audité código, definí la arquitectura del sistema central y di mentoría a 6+ ingenieros distribuidos en varios squads.
 
 - 🏗️ Diseño con **arquitectura hexagonal y DDD**
 - 🧪 Escribo tests primero (PHPUnit, Pest, Vitest)
